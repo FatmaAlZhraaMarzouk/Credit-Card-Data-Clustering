@@ -29,8 +29,18 @@ This repository conations Machine learning project using unsupervised learning t
   <img src="https://raw.githubusercontent.com/FatmaAlZhraaMarzouk/Credit-Card-Data-Clustering/main/Imgs/PCA.jpg"/>
 </p>
 <h4>Try unsupervised algorithms to clusting data</h4>
-<p> 1.	Kmeans and Hierarchical Clustering.</p>
+<h5> 1.	Kmeans and Hierarchical Clustering.<h5/p>
 At this part using Stander scaler data and Log transformed Data.
 Results Kmeans on Log Data:
+  <p align="center">
+  <img src="https://raw.githubusercontent.com/FatmaAlZhraaMarzouk/Credit-Card-Data-Clustering/main/Imgs/LogKmeans.jpg"/>
+</p>
+  <p align="center">
+  <img src="https://raw.githubusercontent.com/FatmaAlZhraaMarzouk/Credit-Card-Data-Clustering/main/Imgs/PCAmeans.jpg"/>
+</p>
+  <p align="center">
+  <img src="https://raw.githubusercontent.com/FatmaAlZhraaMarzouk/Credit-Card-Data-Clustering/main/Imgs/KPCAKmeans.jpg"/>
+</p>
+  
 
  
