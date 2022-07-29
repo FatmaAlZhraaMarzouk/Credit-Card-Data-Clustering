@@ -14,5 +14,5 @@ This repository conations Machine learning project using unsupervised learning t
     2. Power Transformer Scaler.
 #### The Best Case for our problem is Log Transform. It separates Data as seen below:
   <p align="center">
-  <img src="/FatmaAlZhraaMarzouk/Credit-Card-Data-Clustering/blob/main/Imgs/Logdata.jpg?raw=true"/>
+  <img src="/FatmaAlZhraaMarzouk/Credit-Card-Data-Clustering/blob/main/Imgs/Logdata.jpg"/>
 </p>
