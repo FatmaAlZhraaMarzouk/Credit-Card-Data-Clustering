@@ -29,11 +29,10 @@ This repository conations Machine learning project using unsupervised learning t
   <img src="https://raw.githubusercontent.com/FatmaAlZhraaMarzouk/Credit-Card-Data-Clustering/main/Imgs/PCA.jpg"/>
 </p>
 <h4>Try unsupervised algorithms to clusting data</h4>
-<h5> 1.	Kmeans and Hierarchical Clustering.<h5/p>
+<h5> 1.	Kmeans and Hierarchical Clustering.<h5>
 At this part using Stander scaler data and Log transformed Data.
 Results Kmeans on Log Data:
   <p align="center">
-
     <p align="center">
   <img src="https://raw.githubusercontent.com/FatmaAlZhraaMarzouk/Credit-Card-Data-Clustering/main/Imgs/KPCAHcl.jpg"/>
 </p>
@@ -48,6 +47,35 @@ Kernel PCA is best visualization in Hierarchical Clustring.</p>
   <p align="center">
   <img src="https://raw.githubusercontent.com/FatmaAlZhraaMarzouk/Credit-Card-Data-Clustering/main/Imgs/KPCAKmeans.jpg"/>
 </p>
-  
+  <h3>2. DBSCAN</h>
+        <p align="center">
+  <img src="https://raw.githubusercontent.com/FatmaAlZhraaMarzouk/Credit-Card-Data-Clustering/main/Imgs/LogDBS.jpg"/>
+</p>
 
- 
+  <img src="https://raw.githubusercontent.com/FatmaAlZhraaMarzouk/Credit-Card-Data-Clustering/main/Imgs/LPCADBS.jpg"/>
+</p>
+  <p align="center">
+  <img src="https://raw.githubusercontent.com/FatmaAlZhraaMarzouk/Credit-Card-Data-Clustering/main/Imgs/LKPCADBS.jpg"/>
+</p>
+
+ <h3>3.	EM </h>
+        <p align="center">
+  <img src="https://raw.githubusercontent.com/FatmaAlZhraaMarzouk/Credit-Card-Data-Clustering/main/Imgs/ENLog.jpg"/>
+</p>
+
+  <img src="https://raw.githubusercontent.com/FatmaAlZhraaMarzouk/Credit-Card-Data-Clustering/main/Imgs/EMPCA.jpg"/>
+</p>
+  <p align="center">
+  <img src="https://raw.githubusercontent.com/FatmaAlZhraaMarzouk/Credit-Card-Data-Clustering/main/Imgs/EMKPCA.jpg"/>
+</p>
+
+ <h2>4.	Anomaly detection algorithm  </h>
+        <p align="center">
+  <img src="https://raw.githubusercontent.com/FatmaAlZhraaMarzouk/Credit-Card-Data-Clustering/main/Imgs/AnomlyEM.jpg"/>
+</p>
+
+  <img src="https://raw.githubusercontent.com/FatmaAlZhraaMarzouk/Credit-Card-Data-Clustering/main/Imgs/AnomlyIsolated.jpg"/>
+</p>
+  <p align="center">
+  <img src="https://raw.githubusercontent.com/FatmaAlZhraaMarzouk/Credit-Card-Data-Clustering/main/Imgs/AnomlyDBS.jpg"/>
+</p>
