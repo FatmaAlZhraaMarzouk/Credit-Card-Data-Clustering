@@ -17,10 +17,10 @@ This repository conations Machine learning project using unsupervised learning t
   <img src="https://raw.githubusercontent.com/FatmaAlZhraaMarzouk/Credit-Card-Data-Clustering/main/Imgs/Logdata.jpg"/>
 </p>
 
-<h3>Is PCA better than Kernel PCA?</h3>
+<h5>Is PCA better than Kernel PCA?</h5>
  <p> At This part working on Stander scaler data, Log Transformed data using n_components = 11 for stander scaler and 7 for Log Transformed data.
   for kernel PCA using Radial Basis Function Kernel.
- The results for stander scaler data almost same.</p>
+ <h5>The results for stander scaler data almost same.</h>
  <p>For log Data Kernel PCA adds boundaries for data compared to PCA As Shown below:</p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/FatmaAlZhraaMarzouk/Credit-Card-Data-Clustering/main/Imgs/kPCA.jpg"/>
