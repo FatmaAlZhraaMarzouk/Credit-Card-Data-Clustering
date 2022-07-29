@@ -33,6 +33,12 @@ This repository conations Machine learning project using unsupervised learning t
 At this part using Stander scaler data and Log transformed Data.
 Results Kmeans on Log Data:
   <p align="center">
+Results Hierarchical on Log Data:
+Kernel PCA is best visualization in Hierarchical Clustring.
+    <p align="center">
+  <img src="https://raw.githubusercontent.com/FatmaAlZhraaMarzouk/Credit-Card-Data-Clustering/main/Imgs/KPCAHcl.jpg"/>
+</p>
+
   <img src="https://raw.githubusercontent.com/FatmaAlZhraaMarzouk/Credit-Card-Data-Clustering/main/Imgs/LogKmeans.jpg"/>
 </p>
   <p align="center">
