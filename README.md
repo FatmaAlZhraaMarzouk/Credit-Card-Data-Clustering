@@ -2,8 +2,8 @@
 This repository conations Machine learning project using unsupervised learning techniques.
 
 # Evaluate the difference between data transformation techniques:
-<p>At this part using different Data Transformation techniques.</p>
-  <p>Feature Scaling:</p>
+### At this part using different Data Transformation techniques.
+  #### Feature Scaling:
     <p>1. MinMax Scaler. </p>
     <p>2. Standard Scaler. </p>
     <p>3. MaxAbsScaler. </p>
