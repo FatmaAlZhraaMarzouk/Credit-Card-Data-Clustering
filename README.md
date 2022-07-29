@@ -15,4 +15,3 @@ This repository conations Machine learning project using unsupervised learning t
   2. Power Transformer Scaler
   The Best Case for our problem is Log Transform. It separates Data as seen below:
   .</p>
-![Logdata](https://user-images.githubusercontent.com/94739961/181774616-9761f083-01d5-40da-a8ab-b71e5e40c343.jpg)
